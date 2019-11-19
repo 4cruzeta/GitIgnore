@@ -10,7 +10,8 @@ namespace GitIgnore
                               "A dúvida é se mantenho o arquivo\n" +
                               ".gitignore original criado pelo\n" +
                               "VS 2019, ou uso o divulgado no\n" +
-                              "Próprio Github");
+                              "Próprio Github. Nesse caso foi\n " +
+                              "utilizado o do site GitHub.");
         }
     }
 }

@@ -6,7 +6,11 @@ namespace GitIgnore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Teste para verificar uso do Github.\n" +
+                              "A dúvida é se mantenho o arquivo\n" +
+                              ".gitignore original criado pelo\n" +
+                              "VS 2019, ou uso o divulgado no\n" +
+                              "Próprio Github");
         }
     }
 }
